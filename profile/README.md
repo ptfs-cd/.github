@@ -1,8 +1,6 @@
 # PTFS Community Developers
-![aircraft_carrier](https://user-images.githubusercontent.com/63012317/179809023-4db3445b-30ff-4c26-bee2-054458118aeb.jpg)
 
-
-PTFS community developers is a community aiming to equip PTFS sub-communities in order to allow them to have more immersive roleplays. We offer **free** services such as web-developement and custom creation of tools such as ATC tools. These allow for more realistic & fun roleplays. In addition to offering our services, we offer a lifetime support & fully managed websites. Our servers are up to date and patches meaning security isn't a concern for your tools & websites. 
+This project is archived and no longer in use / being updated..
 
 ## Badges
 |[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)|[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)|
@@ -12,5 +10,5 @@ PTFS community developers is a community aiming to equip PTFS sub-communities in
 |[![tailwind last update](https://img.shields.io/aur/last-modified/tailwindcss)]()|[![browser version](https://img.shields.io/badge/bower-v4.2.1-blue)]()|
 ## Authors
 
- [@vikingww2](https://www.github.com/vikingww2)
+ [@vikingww2](https://www.github.com/douglascaron)
 
