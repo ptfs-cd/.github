@@ -10,5 +10,5 @@ This project is archived and no longer in use / being updated..
 |[![tailwind last update](https://img.shields.io/aur/last-modified/tailwindcss)]()|[![browser version](https://img.shields.io/badge/bower-v4.2.1-blue)]()|
 ## Authors
 
- [@vikingww2](https://www.github.com/douglascaron)
+ [@vikingww2](https://www.github.com/vikingww2)
 
